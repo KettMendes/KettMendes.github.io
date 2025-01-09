@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Talento Tech</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Style the header */
+header {
+  background-color: #FFC0CB;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+
+/* Create two columns/boxes that floats next to each other */
+nav {
+  float: left;
+  width: 30%;
+  height: 300px; /* only for demonstration, should be removed */
+  background: #ccc;
+  padding: 20px;
+}
+
+/* Style the list inside the menu */
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+article {
+  float: left;
+  padding: 20px;
+  width: 70%;
+  background-color: #FF1493;
+  height: 300px; /* only for demonstration, should be removed */
+}
+
+/* Clear floats after the columns */
+section::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Style the footer */
+footer {
+  background-color: #DDA0DD;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+/* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
+@media (max-width: 600px) {
+  nav, article {
+    width: 100%;
+    height: auto;
+  }
+}
+</style>
+</head>
+<body>
+
+<h2>Página Simples</h2>
+<p>Esta página foi criada com o intuito de cumprir a atividade do curso: Talento Tech. <br>
+  Professor: Ariangelo Dias (O Melhor Prof. do Mundo) - Desenvolvimento Web.</p>
+
+
+<header>
+  <h2>Kettellenn Mendes</h2>
+</header>
+
+<section>
+  <nav>
+    <ul>
+     <p>
+
+     <!DOCTYPE html> 
+<html> 
+<body> 
+
+<video width="400" controls>
+  <source src="mov_bbb.mp4" type="video/mp4">
+  <source src="mov_bbb.ogg" type="video/ogg">
+  Your browser does not support HTML video.
+  <a href="https://www.youtube.com/watch?v=greA6f6phZM">
+</video>
+
+<p>
+Video courtesy of 
+<a href="https://www.youtube.com/watch?v=greA6f6phZM">KettellennM</a>.
+</p>
+
+</body> 
+</html>
+
+    </ul>
+  </nav>
+
+</body> 
+</html>
+</p>
+    </ul>
+  </nav>
+  
+  <article>
+    <h1>Talento Tech</h1>
+    <p>O Talento Tech-PR é um programa de formação em Tecnologia da Informação e Comunicação (TIC) para estudantes do ensino médio e superior da rede pública do Paraná.</p>
+    <p> O projeto tem como objetivo capacitar jovens para o mercado de trabalho, com foco em cidades com menor desenvolvimento.</p>
+  </article>
+</section>
+
+<footer>
+  <p>Almirante Tamandaré - PR</p>
+</footer>
+
+</body>
+</html>
